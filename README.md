@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js server development: failure to handle potential errors during request processing. The `bug.js` file showcases a server that lacks proper error handling, while `bugSolution.js` provides a corrected version with robust error handling.
